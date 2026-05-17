@@ -1,0 +1,95 @@
+page_url,query,clicks_current,clicks_previous,impressions,avg_position,sessions,conversions,revenue,ctr,conversion_rate,traffic_decay_pct,recommended_action
+https://mysite.com/blog/page-1,keyword choice 1,910,5907,88455,17.480949496728677,659,34,281.52,0.0103,0.0516,-0.8459,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-2,keyword choice 2,3822,864,64734,3.716568267014682,3772,80,594.09,0.059,0.0212,3.4236,Monitor / Maintain
+https://mysite.com/blog/page-3,keyword choice 3,3142,2791,71467,11.663758288723573,4683,89,587.63,0.044,0.019,0.1258,Optimize Metadata / On-Page (Striking Distance)
+https://mysite.com/blog/page-4,keyword choice 4,516,2833,53662,8.690868662770038,7504,7,3246.05,0.0096,0.0009,-0.8179,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-5,keyword choice 5,4476,1630,99506,8.075699657993423,5092,92,3730.22,0.045,0.0181,1.746,Optimize Metadata / On-Page (Striking Distance)
+https://mysite.com/blog/page-6,keyword choice 6,3494,5116,13688,29.217306087820923,3443,89,2916.84,0.2553,0.0258,-0.317,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-7,keyword choice 7,3221,5641,26342,12.399834015336053,5408,114,4810.86,0.1223,0.0211,-0.429,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-8,keyword choice 8,2969,2750,38157,26.869350100136284,4170,104,1874.35,0.0778,0.0249,0.0796,Monitor / Maintain
+https://mysite.com/blog/page-9,keyword choice 9,180,3900,68863,19.303020153920624,4899,134,1428.56,0.0026,0.0274,-0.9538,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-10,keyword choice 10,1735,1088,53083,24.049527802707804,1570,57,4343.0,0.0327,0.0363,0.5947,Monitor / Maintain
+https://mysite.com/blog/page-11,keyword choice 11,819,562,66733,15.57647570005057,680,113,1117.98,0.0123,0.1662,0.4573,Monitor / Maintain
+https://mysite.com/blog/page-12,keyword choice 12,2441,4553,90045,17.730212654164415,7033,74,4816.11,0.0271,0.0105,-0.4639,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-13,keyword choice 13,2483,930,35698,15.283013120747054,7104,119,60.77,0.0696,0.0168,1.6699,Monitor / Maintain
+https://mysite.com/blog/page-14,keyword choice 14,1234,4548,81623,6.66204664614329,2394,20,4849.39,0.0151,0.0084,-0.7287,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-15,keyword choice 15,4605,266,23671,21.95111134258365,3247,137,215.8,0.1945,0.0422,16.312,Monitor / Maintain
+https://mysite.com/blog/page-16,keyword choice 16,3435,5194,26184,9.14239851078482,4349,100,4455.72,0.1312,0.023,-0.3387,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-17,keyword choice 17,4167,1544,94384,1.7051630265121611,1779,98,2638.51,0.0441,0.0551,1.6988,Monitor / Maintain
+https://mysite.com/blog/page-18,keyword choice 18,4893,923,43107,19.718696581307867,3606,35,4964.82,0.1135,0.0097,4.3012,Fix UX / CRO Opportunity
+https://mysite.com/blog/page-19,keyword choice 19,2954,2850,87202,6.136209702804419,5192,95,368.98,0.0339,0.0183,0.0365,Monitor / Maintain
+https://mysite.com/blog/page-20,keyword choice 20,524,623,52663,28.273298946234515,7353,36,2769.27,0.01,0.0049,-0.1589,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-21,keyword choice 21,1132,5176,16708,28.663928733075032,2844,11,4846.51,0.0678,0.0039,-0.7813,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-22,keyword choice 22,2608,4251,92906,27.53106731639301,3456,112,2615.49,0.0281,0.0324,-0.3865,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-23,keyword choice 23,2097,1817,50811,11.734602307407888,4145,12,3146.99,0.0413,0.0029,0.1541,Optimize Metadata / On-Page (Striking Distance)
+https://mysite.com/blog/page-24,keyword choice 24,2797,1738,3811,1.4482418793371554,1343,22,3478.74,0.7339,0.0164,0.6093,Monitor / Maintain
+https://mysite.com/blog/page-25,keyword choice 25,1025,3302,57250,27.92123831504404,5288,98,2272.71,0.0179,0.0185,-0.6896,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-26,keyword choice 26,1856,4696,73082,13.417340301202117,3218,104,3137.79,0.0254,0.0323,-0.6048,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-27,keyword choice 27,239,1119,35754,29.032989752266417,5204,29,2921.57,0.0067,0.0056,-0.7864,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-28,keyword choice 28,2784,5339,96742,28.94497933558833,2241,16,4505.79,0.0288,0.0071,-0.4786,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-29,keyword choice 29,3055,1782,12411,25.73727420855344,5969,112,227.23,0.2462,0.0188,0.7144,Monitor / Maintain
+https://mysite.com/blog/page-30,keyword choice 30,4708,3374,3911,9.539017870017984,5153,61,1404.82,1.2038,0.0118,0.3954,Optimize Metadata / On-Page (Striking Distance)
+https://mysite.com/blog/page-31,keyword choice 31,1949,3217,68270,12.167834129455832,3159,83,4752.06,0.0285,0.0263,-0.3942,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-32,keyword choice 32,1317,5975,84763,25.68296347398885,4648,111,4451.32,0.0155,0.0239,-0.7796,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-33,keyword choice 33,1578,2685,9680,10.190738149532052,5423,85,2278.28,0.163,0.0157,-0.4123,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-34,keyword choice 34,3252,2789,85896,5.915289653896682,3059,140,3100.66,0.0379,0.0458,0.166,Monitor / Maintain
+https://mysite.com/blog/page-35,keyword choice 35,3606,1657,84879,17.147236611292154,2365,18,1386.91,0.0425,0.0076,1.1762,Fix UX / CRO Opportunity
+https://mysite.com/blog/page-36,keyword choice 36,3940,3120,72295,28.148488450662647,6717,99,940.61,0.0545,0.0147,0.2628,Monitor / Maintain
+https://mysite.com/blog/page-37,keyword choice 37,696,2753,89614,21.184864103574217,2579,139,2318.49,0.0078,0.0539,-0.7472,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-38,keyword choice 38,2938,4951,12111,17.531773932591584,6584,146,1766.76,0.2426,0.0222,-0.4066,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-39,keyword choice 39,2485,5207,38504,3.818118319352288,4746,75,2918.28,0.0645,0.0158,-0.5228,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-40,keyword choice 40,650,5799,2802,18.83520957427592,1735,8,388.67,0.232,0.0046,-0.8879,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-41,keyword choice 41,2413,3687,9155,29.71156165302364,5508,27,4871.97,0.2636,0.0049,-0.3455,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-42,keyword choice 42,2111,1423,74656,5.062436441859197,7521,127,4931.05,0.0283,0.0169,0.4835,Monitor / Maintain
+https://mysite.com/blog/page-43,keyword choice 43,291,2041,40384,16.031559918548368,1857,51,3490.81,0.0072,0.0275,-0.8574,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-44,keyword choice 44,2091,5510,48254,26.443819085910707,4552,82,2680.48,0.0433,0.018,-0.6205,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-45,keyword choice 45,2874,1723,22918,22.482289914871927,2170,110,1547.64,0.1254,0.0507,0.668,Monitor / Maintain
+https://mysite.com/blog/page-46,keyword choice 46,2662,1589,86981,21.21345648886277,5981,143,4068.98,0.0306,0.0239,0.6753,Monitor / Maintain
+https://mysite.com/blog/page-47,keyword choice 47,1413,2098,61713,21.37203843562617,6765,116,3423.66,0.0229,0.0171,-0.3265,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-48,keyword choice 48,1528,5652,31306,11.4252433853729,5977,68,813.08,0.0488,0.0114,-0.7297,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-49,keyword choice 49,2606,3362,17646,9.514163483670307,7367,98,4554.64,0.1477,0.0133,-0.2249,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-50,keyword choice 50,825,2297,47843,24.47147350887689,2949,139,4112.69,0.0172,0.0471,-0.6408,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-51,keyword choice 51,4064,5564,97601,24.49328844569624,3351,24,4749.0,0.0416,0.0072,-0.2696,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-52,keyword choice 52,84,5556,91735,26.14509723882301,7490,122,3628.6,0.0009,0.0163,-0.9849,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-53,keyword choice 53,3202,1366,17371,27.483976024137668,7005,52,3067.08,0.1843,0.0074,1.3441,Fix UX / CRO Opportunity
+https://mysite.com/blog/page-54,keyword choice 54,2005,4089,78371,15.828929566967195,3830,143,2091.22,0.0256,0.0373,-0.5097,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-55,keyword choice 55,1635,2735,3049,15.543972545928789,2589,56,4663.64,0.5362,0.0216,-0.4022,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-56,keyword choice 56,3993,5128,32616,24.15056019003648,1731,38,4330.32,0.1224,0.022,-0.2213,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-57,keyword choice 57,3123,5924,21932,19.848953992555188,2916,108,226.09,0.1424,0.037,-0.4728,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-58,keyword choice 58,1071,1342,30855,21.3570394404734,1115,41,131.83,0.0347,0.0368,-0.2019,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-59,keyword choice 59,3511,769,62434,24.07798741364693,1448,141,1882.32,0.0562,0.0974,3.5657,Monitor / Maintain
+https://mysite.com/blog/page-60,keyword choice 60,2663,5635,73694,26.81015491270942,4711,121,4052.77,0.0361,0.0257,-0.5274,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-61,keyword choice 61,3893,5590,44016,10.80185954869454,3187,132,4936.38,0.0884,0.0414,-0.3036,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-62,keyword choice 62,1550,4804,8400,11.891905626558376,2939,74,752.08,0.1845,0.0252,-0.6774,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-63,keyword choice 63,4848,4473,43642,3.725476255385201,435,145,2970.65,0.1111,0.3333,0.0838,Monitor / Maintain
+https://mysite.com/blog/page-64,keyword choice 64,211,3808,16151,17.770124088889045,5978,75,1904.45,0.0131,0.0125,-0.9446,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-65,keyword choice 65,4347,5413,52407,2.0423259401055205,6501,8,4849.57,0.0829,0.0012,-0.1969,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-66,keyword choice 66,2031,4839,67690,14.502342525841344,4692,73,4210.59,0.03,0.0156,-0.5803,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-67,keyword choice 67,1045,723,5499,16.736694406519725,995,144,4191.64,0.19,0.1447,0.4454,Monitor / Maintain
+https://mysite.com/blog/page-68,keyword choice 68,4961,2058,7295,9.309696311720248,6403,6,2343.47,0.6801,0.0009,1.4106,Optimize Metadata / On-Page (Striking Distance)
+https://mysite.com/blog/page-69,keyword choice 69,3392,3505,60040,18.13416455650131,3646,140,2074.1,0.0565,0.0384,-0.0322,Monitor / Maintain
+https://mysite.com/blog/page-70,keyword choice 70,4601,3803,13183,1.8845072482324332,951,136,1367.04,0.349,0.143,0.2098,Monitor / Maintain
+https://mysite.com/blog/page-71,keyword choice 71,3848,5787,30299,2.083097473727218,1787,26,281.88,0.127,0.0145,-0.3351,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-72,keyword choice 72,1325,1555,13874,24.855416259130088,2031,121,4323.61,0.0955,0.0596,-0.1479,Monitor / Maintain
+https://mysite.com/blog/page-73,keyword choice 73,1066,3364,33711,11.445528600926623,6933,4,4064.51,0.0316,0.0006,-0.6831,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-74,keyword choice 74,387,3823,6539,4.684754866904658,3846,28,4998.59,0.0592,0.0073,-0.8988,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-75,keyword choice 75,928,5292,54351,16.145054541589325,2527,82,4983.18,0.0171,0.0324,-0.8246,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-76,keyword choice 76,1126,1913,62267,23.329813039859715,1668,135,2777.16,0.0181,0.0809,-0.4114,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-77,keyword choice 77,4937,5676,49354,7.258809797408452,4100,108,3844.94,0.1,0.0263,-0.1302,Optimize Metadata / On-Page (Striking Distance)
+https://mysite.com/blog/page-78,keyword choice 78,4043,4719,3557,19.06382379875101,5152,64,4723.83,1.1366,0.0124,-0.1433,Monitor / Maintain
+https://mysite.com/blog/page-79,keyword choice 79,4909,1351,39360,3.475076484819272,2838,85,4248.24,0.1247,0.03,2.6336,Monitor / Maintain
+https://mysite.com/blog/page-80,keyword choice 80,429,3641,83018,2.4987699138896238,3598,144,1236.74,0.0052,0.04,-0.8822,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-81,keyword choice 81,542,3517,3200,16.40928431547629,5832,70,2252.72,0.1694,0.012,-0.8459,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-82,keyword choice 82,2112,1696,69497,16.67841852669309,5487,44,645.8,0.0304,0.008,0.2453,Fix UX / CRO Opportunity
+https://mysite.com/blog/page-83,keyword choice 83,3934,3756,47975,19.48546714344799,7844,131,4770.26,0.082,0.0167,0.0474,Monitor / Maintain
+https://mysite.com/blog/page-84,keyword choice 84,114,3059,22357,22.056648677957185,5636,35,3030.87,0.0051,0.0062,-0.9627,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-85,keyword choice 85,2618,3212,78505,29.299710304413505,5387,69,1143.21,0.0333,0.0128,-0.1849,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-86,keyword choice 86,2077,758,3869,15.972710100734664,4013,18,3358.5,0.5368,0.0045,1.7401,Fix UX / CRO Opportunity
+https://mysite.com/blog/page-87,keyword choice 87,2745,2220,62135,10.365737715296133,1166,107,3090.64,0.0442,0.0918,0.2365,Optimize Metadata / On-Page (Striking Distance)
+https://mysite.com/blog/page-88,keyword choice 88,1545,4157,51108,24.060399648292407,7823,90,1790.81,0.0302,0.0115,-0.6283,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-89,keyword choice 89,441,4797,95179,8.854135286600153,4480,89,567.79,0.0046,0.0199,-0.9081,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-90,keyword choice 90,4564,5745,91272,13.730171200463449,2544,18,3357.87,0.05,0.0071,-0.2056,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-91,keyword choice 91,4524,914,39467,3.2752350589257127,4207,38,2601.54,0.1146,0.009,3.9497,Fix UX / CRO Opportunity
+https://mysite.com/blog/page-92,keyword choice 92,3611,5915,24328,1.735171559048268,5826,125,3861.59,0.1484,0.0215,-0.3895,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-93,keyword choice 93,2328,3534,92412,28.916804025659825,3473,140,2600.82,0.0252,0.0403,-0.3413,Urgent Content Refresh (Traffic Decay)
+https://mysite.com/blog/page-94,keyword choice 94,3149,5817,87831,25.243423494853968,4069,125,4260.91,0.0359,0.0307,-0.4587,Urgent Content Refresh (Traffic Decay)
